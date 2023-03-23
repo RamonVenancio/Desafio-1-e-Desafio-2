@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.form_style{
+    max-width: 1300px;
+}
+
+h1{
+    margin-left: 480px;
+}
+
+h2{
+    display: inline;
+    padding-right: 740px;
+}
+
+#timer{
+    display: inline-block;
+    border-radius: 5px;
+    background-color: rgb(4, 22, 16);
+    border: solid 1px black;
+    color: white;
+    padding: 10px 30px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.container {
+    margin: 3% 20%;
+    border: solid 1px black;
+    min-width: 600px;
+}
+
+img{
+    width: 80px;
+    display: inline;
+}
+
+h3{
+    display: inline; 
+}
+
+.form123 input{
+    width: 100%;
+}
